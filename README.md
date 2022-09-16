@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about NOTHING
 - 📫 How to reach me: my phone number: 4
 - ⚡ Fun fact: I play on garageband too much 
---> peace and love <3
+--> peace and love <33
