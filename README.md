@@ -3,7 +3,7 @@ I'm Merien, a student with big brain energy and the grades to match it (sort of)
 ```mermaid
 pie
     title Pie Chart
-    "Dogs" : 386
-    "Cats" : 85
-    "Rats" : 150 
+    "SZA album listens" : 386
+    "Lauryn Hill album listens" : 85
+    "Times I cried" : 150 
 ```
