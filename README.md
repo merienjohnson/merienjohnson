@@ -3,8 +3,8 @@ I'm Merien, a student with big brain energy and the grades to match it (sort of)
 ```Music
 pie
     title Pie Chart
-    "SZA Album Listen" : 5
-    "Lauryn Hill Album Listen" : 3
-    "Amount of Times I danced my heart out" : 8
+    "Red" : 5
+    "Blue" : 3
+    "Green" : 8
 ```
 
